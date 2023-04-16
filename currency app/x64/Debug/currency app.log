@@ -1,0 +1,3 @@
+﻿  currency app.cpp
+C:\Users\dell\source\repos\currency app\currency app\currency app.cpp(19,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  currency app.vcxproj -> C:\Users\dell\source\repos\currency app\x64\Debug\currency app.exe
